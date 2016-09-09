@@ -1,0 +1,8 @@
+#This is the AI Command center
+#Second Line
+#Third Line
+#Forth Line
+ls|Listing Directory|1|ls -ls
+tar|Extracting Files|1
+hello|How are you doing sir!|0
+random|something Random|0
